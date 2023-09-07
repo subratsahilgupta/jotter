@@ -7,7 +7,7 @@ from tkinter import messagebox
 
 
 root = Tk()
-root.title("SSG's Notepad")
+root.title("Dear Diary")
 root.geometry("800x500")
 root.wm_iconbitmap("my_icon.ico")
 
